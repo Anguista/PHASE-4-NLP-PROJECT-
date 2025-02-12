@@ -106,7 +106,7 @@ However, the **neutral class** remains the hardest to classify (low recall of 0.
 
 Through this project, I gained valuable insights into the power of NLP for sentiment classification, showcasing how businesses like Apple can leverage social media data to refine their strategies and better understand their customers. By refining model performance and expanding feature engineering, this approach can be scaled for broader applications in social media analysis.
 
-## **9. Conclusion & Recommendations**
+## **7. Conclusion & Recommendations**
 
 ### **Conclusion**
 This project successfully built and evaluated a sentiment analysis model that can classify tweets about Apple products as **positive, negative, or neutral** based on their content. After testing multiple models, **Logistic Regression** emerged as the best-performing approach, achieving **75% accuracy** and an **AUC-ROC score of 0.84**.  
