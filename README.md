@@ -16,7 +16,7 @@ The goal of this project is to build an **NLP model** that can analyze **Twitter
 ### **Key Questions & Answers:**
 
 #### **What is the goal of this project?**  
-- To develop a **sentiment classification model** that can automatically **rate the sentiment of Tweets** related to Apple and Google products.
+- To develop a **sentiment classification model** that can automatically **rate the sentiment of Tweets** related to Apple products.
 - The model should be able to **identify positive, negative, or neutral sentiments** from textual data.
 - The project aims to provide a **proof of concept**, starting with a simple **binary classifier (positive vs. negative)** and then expanding to a **multiclass classifier (positive, neutral, negative)**.
 
@@ -24,16 +24,13 @@ The goal of this project is to build an **NLP model** that can analyze **Twitter
 - **Brand Perception:** How do users feel about Apple products on social media?  
 - **Customer Pain Points:** What negative aspects are frequently mentioned?  
 - **Market Trends:** Are there specific events or product launches that trigger sentiment shifts?  
-- **Comparative Analysis:** Which brand has better sentiment overall? Are there specific product categories where one brand outperforms the other in public perception?  
 - **Influence of Tweet Content:** Which words or phrases contribute most to each sentiment category?  
 
 #### **How will the results be used in decision-making?**  
-- **Marketing Strategy:** Brands can adjust their marketing campaigns based on sentiment trends.  
-- **Customer Support Prioritization:** If negative sentiment spikes, companies can proactively address issues.  
+- **Marketing Strategy:** Apple can adjust its marketing campaigns based on sentiment trends.  
+- **Customer Support Prioritization:** If negative sentiment spikes, Apple can proactively address issues.  
 - **Product Improvement:** Insights from common complaints can guide product development.  
-- **Competitive Analysis:** Apple and Google can compare their sentiment scores to see which brand is performing better in public perception.  
-- **Crisis Management:** Early detection of negative sentiment trends can help mitigate PR disasters.  
-
+- **Crisis Management:** Early detection of negative sentiment trends can help mitigate PR disasters.
 
 ---
 
