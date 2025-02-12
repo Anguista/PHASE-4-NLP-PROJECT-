@@ -11,7 +11,7 @@ In this project, I explored how people feel about Apple products by analyzing se
 ## 1. Business Understanding
 
 ### **Objective:**  
-The goal of this project is to build an **NLP model** that can analyze **Twitter sentiment** regarding **Apple and Google products**. The dataset contains **over 3,886 Tweets**, each labeled by human raters as **positive, negative, or neutral**. The model will classify new Tweets based on their sentiment, helping businesses understand **public perception and customer sentiment trends**.
+The goal of this project is to build an **NLP model** that can analyze **Twitter sentiment** regarding **Apple products**. The dataset contains **over 3,886 Tweets**, each labeled by human raters as **positive, negative, or neutral**. The model will classify new Tweets based on their sentiment, helping businesses understand **public perception and customer sentiment trends**.
 
 ### **Key Questions & Answers:**
 
@@ -21,7 +21,7 @@ The goal of this project is to build an **NLP model** that can analyze **Twitter
 - The project aims to provide a **proof of concept**, starting with a simple **binary classifier (positive vs. negative)** and then expanding to a **multiclass classifier (positive, neutral, negative)**.
 
 #### **What insights will be gained?**  
-- **Brand Perception:** How do users feel about Apple and Google products on social media?  
+- **Brand Perception:** How do users feel about Apple products on social media?  
 - **Customer Pain Points:** What negative aspects are frequently mentioned?  
 - **Market Trends:** Are there specific events or product launches that trigger sentiment shifts?  
 - **Comparative Analysis:** Which brand has better sentiment overall? Are there specific product categories where one brand outperforms the other in public perception?  
